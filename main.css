@@ -22,8 +22,8 @@ body {
 header {
 	width: 100%;
 	height: 5%;
-	background-color: #52bad5;
-	border-bottom: 1px solid #2C9AB7;
+	background-color: #54828C;
+	border-bottom: 1px solid #54828C;
 }
 .logo {
 	color: #fff;
@@ -110,7 +110,7 @@ ul li:hover a {
 }
 /* Stats Gallery */
 .stats {
-	color: #717070;
+	color: #593F2F;
 	margin-bottom: 5px;
 }
 .gallery {
@@ -238,7 +238,7 @@ footer .footer_column p {
 	text-align: center;
 	padding-top: 20px;
 	padding-bottom: 20px;
-	background-color: #717070;
+	background-color: #593F2F;
 	color: #FFFFFF;
 	text-transform: uppercase;
 	font-weight: lighter;
