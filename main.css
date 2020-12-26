@@ -1,8 +1,6 @@
 @charset "UTF-8";
 /* Body */
-image-vw {
-  width : 50vw ; 
-}
+
 body {
 	font-family: source-sans-pro;
 	background-color: #f2f2f2;
@@ -179,6 +177,9 @@ ul li:hover a {
 	margin-left: 0px;
 }
 /* More info */
+image-vw {
+  width : 50vw ; 
+}
 footer {
 	background-color: #FFFFFF;
 	padding-bottom: 35px;
