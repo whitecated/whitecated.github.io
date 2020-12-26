@@ -1,5 +1,8 @@
 @charset "UTF-8";
 /* Body */
+image-vw {
+  width : 50vw ; 
+}
 body {
 	font-family: source-sans-pro;
 	background-color: #f2f2f2;
@@ -477,7 +480,5 @@ nav ul li {
 	padding-top: 0px;
 }
 }
-/* 画面幅の50%の幅で画像を表示 */
-image-vw {
-  width : 50vw ; 
-}
+
+
