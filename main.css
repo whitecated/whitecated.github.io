@@ -307,6 +307,8 @@ nav ul li {
 .footer_column {
 	width: 100%;
 	margin-top: 0px;
+    margin: 0;
+	
 }
 .parallax {
 	text-align: center;
